@@ -6,7 +6,7 @@
 ##### Step 1: Clone the repo
 ##### Step 2: `python3 main.py [OPENAI_API_KEY]`
 
-Get your OPENAI_API_KEY from [openai.com/api-keys](https://platform.openai.com/api-keys){target="_blank"}
+Get your OPENAI_API_KEY from [openai.com/api-keys](https://platform.openai.com/api-keys)
 
 
 #### Setting up environment variable
