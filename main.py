@@ -14,7 +14,6 @@ def main(params):
     response = chatgeneration.generateText(client, user_text)
     print("ANSWER: ")
     print(" ".join(response))
-    print("test")
 
 
 if __name__ == "__main__":
