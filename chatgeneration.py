@@ -6,7 +6,7 @@ def generateText(client, user_text):
         stream=True,
     )
 
-    print("Generating Text...")
+    # print("Generating Text...")
 
     response = []
 

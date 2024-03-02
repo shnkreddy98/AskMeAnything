@@ -3,7 +3,6 @@ from scipy.io.wavfile import write
 import datetime
 
 def recordAudio():
-
     # creating audiofile with timestamp as filename (no use of saving audio files)
     filename = "audiofiles/"+str(datetime.datetime.now().timestamp())+".wav"
     # print(filename)

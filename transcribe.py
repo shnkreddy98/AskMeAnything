@@ -13,4 +13,6 @@ def speechToText(filename, apikey):
     
     user_text = transcription.text
 
+    print("QUESTION: ",user_text)
+
     return client, user_text
