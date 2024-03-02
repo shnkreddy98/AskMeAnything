@@ -24,15 +24,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     main(args)
-    
-    # try:
-    #     apikey = sys.argv[1]
-    
-    # except:
-    #     apikey = os.getenv("OPENAI_API_KEY")
-
-    # if apikey is None:
-    #     print("APIKEY not set properly")
-    #     exit()
 
     
